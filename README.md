@@ -38,7 +38,7 @@ Instruction of docker. How to handle with images, containers and docker file.
 - **ENV** — mont static environment.
 - **RUN** — executes command in a shell inside container environment
     RUN npm install
-- **COPY** — copy files or directories from \<src> and adds them to the filesystem of the container at the path \<dest>\ 
+- **COPY** — copy files or directories from \<src> and adds them to the filesystem of the container at the path \<dest>\
     COPY \<src> \<dest>\
     COPY package.json /app/
 - **ADD** — copies files and directories in container. Can unpack .tar.
