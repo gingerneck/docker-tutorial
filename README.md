@@ -1,6 +1,6 @@
 # TUTORIALS
 
-1. [DOCKER](./tutorials/docker.md)
-2. [SQL](./tutorials/sql.md)
-3. [IDEA HOTKEYS](./tutorials/idea.md)
-4. [LINUX](./tutorials/linux.md)
+1. [DOCKER](docker.md)
+2. [SQL](sql.md)
+3. [IDEA HOTKEYS](idea.md)
+4. [LINUX](linux.md)
