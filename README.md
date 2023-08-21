@@ -27,6 +27,16 @@ Instruction of docker. How to handle with images, containers and docker file.
 - **docker logs {CONTAINER ID} or {NAME}** - get container logs
 - **docker build**\
     -t or --tag - sets name and optional tag name:tag
+- **docker exec -t -i {CONTAINER ID} or {NAME} /bin/sh** - runs sh in container\
+  --detach , -d 		Detached mode: run command in the background\
+  --detach-keys 		Override the key sequence for detaching a container\
+  --env , -e 		Set environment variables\
+  --env-file 		Read in a file of environment variables\
+  --interactive , -i 		Keep STDIN open even if not attached\
+  --privileged 		Give extended privileges to the command\
+  --tty , -t 		Allocate a pseudo-TTY\
+  --user , -u 		Username or UID (format: <name|uid>[:<group|gid>])\
+  --workdir , -w 		Working directory inside the container
 
 ## Docker file
 <p><i>Text document that contains commands to assemble an image </i></p>
