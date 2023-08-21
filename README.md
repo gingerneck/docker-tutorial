@@ -3,6 +3,7 @@
 1. [Introduction](#introduction)
 2. [Common commands](#common-commands)
 3. [Docker file](#docker-file)
+4. [Docker page](./tutorials/docker.md)
 
 
 ## Introduction
