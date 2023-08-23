@@ -42,3 +42,8 @@
     4 - only read\
     5 - read/execute\
     6 - read/write\
+ - **pwd** - prints directory
+ - **ls** - shows folder content
+ - **cd ..** - folder back
+ - **cd -** -shows last operation
+ - **cd ~** - returns to root
