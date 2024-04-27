@@ -47,6 +47,6 @@
  - **cd ..** - folder back
  - **cd -** -shows last operation
  - **cd ~** - returns to root
-- **tar**
-  -zcvf archive.tar.gz /path/to/files - to zip
+- **tar**\
+  -zcvf archive.tar.gz /path/to/files - to zip\
   -zxvf archive.tar.gz -C / - to unaip
